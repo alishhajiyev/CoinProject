@@ -1,0 +1,245 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "25 cents",
+      "desc": "The quarter, short for quarter dollar, is a United States coin worth 25 cents, one-quarter of a dollar.",
+      "price": "150",
+      "img": "25 cents_1.png",
+      "category": "exclusive"
+    },
+    {
+      "id": "2",
+      "name": "A penny",
+      "desc": "A unit of currency equaling one one-hundredth of a US dollar.",
+      "price": "250",
+      "img": "A penny_1.png",
+      "category": "exclusive"
+    },
+    {
+      "id": "3",
+      "name": "Alligator",
+      "desc": "Silver coin features the wonderful American Alligator.",
+      "price": "200",
+      "img": "Alligator_1.png",
+      "category": "exclusive"
+    },
+    {
+      "id": "4",
+      "name": "Bolivian Peso",
+      "desc": "The currency of Bolivia from January 1, 1963",
+      "price": "100",
+      "img": "Bolivian Peso_1.png",
+      "category": "exclusive"
+    },
+    {
+      "id": "5",
+      "name": "Botswana",
+      "desc": "The pula is the currency of Botswana.",
+      "price": "230",
+      "img": "Botswana_1.png",
+      "category": "exclusive"
+    },
+    
+    {
+      "id": "6",
+      "name": "Canadian Beaver",
+      "desc": "The Canadian five-cent coin, commonly called a nickel",
+      "price": "50",
+      "img": "Canadian Beaver_1.png",
+      "category": "exclusive"
+    },
+    {
+      "id": "7",
+      "name": "Canadian Cent",
+      "desc": "a penny is a coin worth one cent",
+      "price": "80",
+      "img": "Canadian Cent_1.png",
+      "category": "exclusive"
+    },
+    {
+      "id": "8",
+      "name": "Coin of the Weimar Republic",
+      "desc": "Weimar Coins (1919-1933) Germany 5 Reichsmark 1928 D",
+      "price": "95",
+      "img": "Coin of the Weimar Republic_1.png",
+      "category": "exclusive"
+    },
+    {
+      "id": "9",
+      "name": "Costa Rica",
+      "desc": "Currency of Costa Rica named after Christopher Columbus",
+      "price": "90",
+      "img": "Costa Rica_1.png",
+      "category": "bullion"
+    },
+    {
+      "id": "10",
+      "name": "Cron",
+      "desc": "CRON has a circulating supply of 8.2 M CRON",
+      "price": "120",
+      "img": "Cron_1.png",
+      "category": "bullion"
+    },
+    {
+      "id": "11",
+      "name": "Dim Sum",
+      "desc": "DimSum (DMS) is a token without its own blockchain.",
+      "price": "150",
+      "img": "Dim Sum_1.png",
+      "category": "bullion"
+    },
+    {
+      "id": "12",
+      "name": "Franc",
+      "desc": "The franc also commonly distinguished as the French franc",
+      "price": "50",
+      "img": "Franc_1.png",
+      "category": "bullion"
+    },
+    {
+      "id": "13",
+      "name": "Gyeonggi",
+      "desc": "Gyeonggi-do, through safe marketplace Symlix",
+      "price": "85",
+      "img": "Gyeonggi_1.png",
+      "category": "bullion"
+    },
+    {
+      "id": "14",
+      "name": "ISK",
+      "desc": "Icelandic crown (ISK) is the currency of Iceland.",
+      "price": "40",
+      "img": "ISK_1.png",
+      "category": "bullion"
+    },
+    {
+      "id": "15",
+      "name": "Jefferson",
+      "desc": "Jefferson Coin Shop has been buying and selling gold and silver bullion",
+      "price": "100",
+      "img": "Jefferson_1.png",
+      "category": "bullion"
+    },
+    {
+      "id": "16",
+      "name": "Kennedy",
+      "desc": "The Kennedy half dollar, first minted in 1964, currently issued by the United States Mint.",
+      "price": "90",
+      "img": "Kennedy_1.png",
+      "category": "bullion"
+    },
+    {
+      "id": "17",
+      "name": "Lion sedge",
+      "desc": "The Kennedy half dollar, first minted in 1964",
+      "price": "300",
+      "img": "Lion sedge_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "18",
+      "name": "Looney",
+      "desc": "The loonie, formally the gold-coloured Canadian one-dollar coin",
+      "price": "320",
+      "img": "Looney_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "19",
+      "name": "Rial",
+      "desc": "The rial is the official currency of Iran.",
+      "price": "500",
+      "img": "Rial_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "20",
+      "name": "Sailboat",
+      "desc": "Stunning new silk-finish coin in the shape of a sailboat.",
+      "price": "240",
+      "img": "Sailboat_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "21",
+      "name": "Scientist",
+      "desc": "Brilliant Uncirculated Coin, Alexander Graham Bell 2022 UK",
+      "price": "240",
+      "img": "Scientist_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "22",
+      "name": "South Vietnamese Dong",
+      "desc": "The currency of South Vietnam from 1953 to 2 May 1978.",
+      "price": "240",
+      "img": "South Vietnamese Dong_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "23",
+      "name": "Stork",
+      "desc": "Stork Coin (STORK) Token Tracker on Etherscan",
+      "price": "240",
+      "img": "Stork_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "24",
+      "name": "The British Antelope",
+      "desc": "The release of the third coin in a series of five coins",
+      "price": "240",
+      "img": "The British Antelope_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "25",
+      "name": "The Golden Panda",
+      "desc": "The Chinese Gold Panda is a series of gold bullion coins issued by the People's Republic of China.",
+      "price": "240",
+      "img": "The Golden Panda_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "26",
+      "name": "Theobroma Cocoa",
+      "desc": "Pesewas Ghana Authentic Coin Money for Jewelry and Craft.",
+      "price": "240",
+      "img": "Theobroma Cocoa_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "27",
+      "name": "Virginia",
+      "desc": "The American Innovation $1 Coin representing Virginia recognizes the Chesapeake Bay Bridge-Tunnel.",
+      "price": "240",
+      "img": "Virginia_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "28",
+      "name": "Woman",
+      "desc": "Counterparty Bitcoin blockchain platform and is migrating to ERC 20",
+      "price": "240",
+      "img": "Woman_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "29",
+      "name": "Year of the children",
+      "desc": "The coin 20 Birr (International Year of the Child), Ethiopia.",
+      "price": "240",
+      "img": "Year of the children_1.png",
+      "category": "commemorative"
+    },
+    {
+      "id": "30",
+      "name": "Yemen",
+      "desc": "The rial is the official currency of the Republic of Yemen.",
+      "price": "240",
+      "img": "Yemen_1.png",
+      "category": "commemorative"
+    }
+  ]
+}
